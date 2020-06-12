@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="gimcarry_map_sourceCode_190716/app" />
+      <module fileurl="file://$PROJECT_DIR$/gimcarry_map_sourceCode_190716.iml" filepath="$PROJECT_DIR$/gimcarry_map_sourceCode_190716.iml" group="gimcarry_map_sourceCode_190716" />
+    </modules>
+  </component>
+</project>

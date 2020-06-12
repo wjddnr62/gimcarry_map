@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="짐캐리">GIM CARRY</string>
+    <string name="배송예약">Delivery Reservation</string>
+    <string name="공항예약">Airport Reservations</string>
+    <string name="예약조회">Reservation Check</string>
+    <string name="출발지주소입력">Enter origin address</string>
+    <string name="도착지주소입력">Enter destination address</string>
+    <string name="배송수거지">A collection site</string>
+    <string name="상세주소">Detailed address</string>
+    <string name="탑승일시">Boarding date</string>
+    <string name="날짜선택">Select Date</string>
+    <string name="탑승시간선택">Select boarding time</string>
+    <string name="방문수거일">Visit collection date</string>
+    <string name="날짜를선택해주세요">Select a date</string>
+    <string name="방문희망시간">Time to visit</string>
+    <string name="일정에따라">(somewhat variable depending on schedule)</string>
+    <string name="시간선택">Select Time</string>
+    <string name="도착공항">Arrival Airport</string>
+    <string name="인천공항1터미널">Incheon Airport Terminal 1</string>
+    <string name="인천공항2터미널">Incheon Airport Terminal 2</string>
+    <string name="항공편명">Flight name</string>
+    <string name="대소문자구별">(Case sensitive, enter exactly)</string>
+    <string name="다음">Next</string>
+    <string name="일반가방수">General bag count</string>
+    <string name="인치">x20,000won(28inch/25kg Less than)</string>
+    <string name="규격외물품수">Non standard items</string>
+    <string name="인치2">x30,000won(Golf bag/immigration bag)</string>
+    <string name="합계">Sum</string>
+    <string name="전화번호">Phone number</string>
+    <string name="비밀번호">Password</string>
+    <string name="네자리">4word</string>
+    <string name="추가요청사항" tools:ignore="ExtraTranslation">Additional requests</string>
+    <string name="예약하기">Reservation</string>
+    <string name="상세주소입력">Enter hotel address</string>
+    <string name="탑승일먼저입력">Enter boarding date first</string>
+    <string name="방문수거일먼저입력">Enter collection date of the visit first</string>
+    <string name="방문신청">You can not apply for a visit on the same day.</string>
+    <string name="탑승일은">The boarding date must be superior or equal to the visit collection date</string>
+    <string name="방문수거일과">Reservations can only be made during the afternoon if the visit collection and boarding days are the same.</string>
+    <string name="입력되지않은항목">There are items that have not been entered</string>
+    <string name="도착배송지">Arrival destination</string>
+    <string name="출발지">A starting point</string>
+    <string name="도착지">Destination</string>ㅈ
+    <string name="주소">Address</string>
+    <string name="총합계">Total</string>
+    <string name="일반가방">Small bag /</string>
+    <string name="규격외가방">Large bag /</string>
+    <string name="배송희망일">Delivery:</string>
+    <string name="배송희망일2">Delivery day:</string>
+    <string name="탑승일시조">Boarding:</string>
+    <string name="오늘이후로예약">You can make a reservation from the day after today.</string>
+    <string name="지난날">You can make a reservation from the day after today.</string>
+    <string name="항공편명조">Flight /</string>
+    <string name="개">EA</string>
+    <string name="전화번호국적">US</string>
+    <string name="원">Won</string>
+    <string name="예약">Reserve</string>
+    <string name="무선네트워크">You need to check both the wireless network and the GPS satellite for accurate location service.\nDo you want to set location service features?</string>
+    <string name="위치서비스">Location Service Settings</string>
+    <string name="프로그램종료">Do you want to exit the program?</string>
+    <string name="가방을수령">Did you receive your bag?</string>
+    <string name="예약시간">Reservation time:</string>
+    <string name="추가요청사항조">Additional Requests</string>
+    <string name="공항도착일">Airport arrival date</string>
+    <string name="공항도착시간">Airport arrival time</string>
+    <string name="이용약관에동의">Accept Terms and Conditions</string>
+    <string name="이용약관동의">Accept Terms and Conditions</string>
+    <string name="수집및이용동의">I agree to provide collection and utilization</string>
+    <string name="이용안내타이틀">A guide to use</string>
+    <string name="서비스이용약관">Terms of service</string>
+    <string name="개인정보수집이용제공동의">Agree to provide access to personal information collection</string>
+    <string name="위치기반서비스이용약관">Location-Based Terms of Service</string>
+    <string name="예약완료되었습니다">Your reservation is complete</string>
+    <string name="모든항목동의">You have agreed to all items.</string>
+    <string name="모든항목동의2">Please agree on all the items.</string>
+    <string name="당일예약은">You must make a reservation for the day before 11 a.m</string>
+    <string name="당일예약시">The boarding time must be after 6 pm when booking for the day</string>
+    <string name="위치기반약관">"Standard Terms of Use (No)
+
+
+
+Chapter 1. Total Chick
+
+Article 1 (Purpose) This Agreement refers to a person who has agreed to the Service Terms based on the Location of the membership (&amp; 300 ; State &amp; 301 ; Non-Carries Jambary App). It is called " member ".)
+This &amp; 300 ; State &amp; 301 ; Course Carrie Jim Carrey (" Company ").Use the Jim Carrey App service (hereinafter referred to as " service ") provided by
+Therefore, the purpose of the Regulations is to define rights, duties, and responsibilities of the company and its members.
+
+Article 2 (Effective and changed terms of use)
+
+① This Agreement takes effect by registering this Agreement as a user of the service in accordance with the procedure set by the company after the client or the person who has applied for the service agrees to this Agreement.
+
+② If a member clicks the " Agree " button of this Agreement online, he or she has read and fully understands the contents of these Terms and Conditions and agrees to the application.
+
+③ The company does not violate the scope of related statutes, including the Act on the Protection and Use of Location Information, the Act on the Promotion of Content Industry, and the Act on the Consumer Protection in Electronic Commerce, and the Regulation of the Framework Act.
+
+④ In case the company revises the terms and conditions, specify the application date and reason of the amendment to the existing agreement and the revision agreement in the form of the service for 30 days after the application date or in the case of the revision date.
+
+⑤ If the company does not indicate its intention to refuse the amendment from the date of notification or notice to the date of enforcement of the revision agreement by notifying the member in accordance with the above paragraph, it is deemed that the service agreement has been approved. If the member does not agree to the amendment terms, the member may terminate the service contract.
+
+Article 3 (Application of related statutes) This Agreement shall be applied fairly according to the principles of good faith and any matters not specified in this Agreement shall be governed by applicable statutes or business practices.
+
+Article 4 (Contents of the service) The services provided by the company are as follows :
+Service Name Service Content
+This service allows you to view the location of the Jim Carrey App service on your mobile phone.
+Article 5 (service fee)
+
+① The services provided by the company are basically charged or free. However, for a separate paid service, you must pay the fee specified in the service.
+② The company may charge the service fee based on the method set by the electronic payment company that contracted with the company or added to the companys invoice.
+③ The cancellation and refund of the paid amount through the use of paid services shall be in accordance with the relevant laws, such as the companys payment terms and conditions.
+
+④ Requests for a refund due to members theft of personal information and payment fraud or the individual information request of a deferree may be rejected except under the law.
+
+⑤ Data communication fee for using wireless service is separate and is in accordance with the policy of each mobile carrier to which you subscribe.
+
+⑥ The fee for registering postings with MMS, etc. shall be according to the mobile carriers policy.
+
+Article 6 (Notice of service change, etc.)
+
+① If the company changes or terminates the service contents, the company can notify the member of the service contents by email to the registered e-mail address.
+
+② In case of a protest, the members can be notified by website or other company notices in case of notification to a large number of unspecified persons.
+
+Article 7 (Limit and Stop Service Use)
+
+① The company can restrict or suspend the members service use in case of a reason falling under 1 of each of the following paragraphs.
+
+1. In case a member interferes with the operation of the companys services on purpose or in the medium
+2. In case of necessity due to inspection, repair, or construction of a service facility
+3. In case the telecommunications service has been stopped by the carrier for the period specified by the Telecommunications Business Act
+4. In the event of a national emergency, a breakdown in the service facility, or a congestion of service use.
+5. In case the company acknowledges that it is inappropriate to continue providing services for other serious reasons ;
+
+② If the company restricts or stops the service use according to the provisions of the preceding paragraph, the company shall inform the members of the reasons and the period of restriction.
+
+Article 8 (Use or provision of personal location information)
+
+① In case the company intends to provide the service using the personal location information, the company shall specify the service in the terms and conditions in advance and obtain the consent of the person in charge of personal location information.
+
+② The rights of members and legal representatives and their method of exercise shall be based on the users address at the time of the complaint and, if the address does not exist, shall be the exclusive jurisdiction of the local court governing the court. However, if the users address or location is not clear at the time of the complaint, or if a foreign resident is in a foreign country, it shall be filed with the court under the Civil Procedure Act.
+
+③ The company automatically records and preserves location information and fact verification data for settlement of fees and processing of complaints with third party vendors or customers. The data is kept for one year.
+
+④ If the company provides personal location information to a third party designated by the member, the company immediately notifies the purpose of providing the personal location information to each member by means of the corresponding communication terminal device. However, if it falls under 1 of each of the following paragraphs, the member shall notify it to the specified communication terminal device or e-mail address.
+
+1. In case the corresponding communication terminal unit that collects personal location information does not have the ability to receive text, voice or video
+2. In case a member requests prior notice by online posting, etc.
+
+Article 9 (Rights of the Personal Location Information Body)
+
+① The member may withdraw all or part of the agreement on the provision of location-based services using personal location information or the provision of a third party of personal location information at any time. In such a case, the company destroys the personal location information collected, the use of location information, and the information provided.
+
+② The members may request the company to temporarily suspend the collection, use or provision of personal location information at any time.
+
+③ The member may request the company to read or notify the data in each of the following paragraphs, and, in case of errors in the data, may request correction. In this case, the company can not reject the member's request without a justifiable reason.
+
+1. Data for collecting, using and providing location information
+2. The reasons and contents of personal location information provided to a third party pursuant to the Act on the Protection and Use of Location Information, etc.
+
+④ The members may request the rights of the company for the exercise of the rights of paragraphs 1. to 3.
+Article 10 (the right of a legal representative)
+
+① For members under 14 years of age, the company must accept the consent of the members and their legal representatives by obtaining consent on the provision of location-based services using personal location information and the provision of personal location information. In this case, the legal representative shall have all rights of the member under Article 9.
+
+② In case the company intends to use the personal location or location information of a child under 14 years of age and the information provided by the company beyond the scope specified or notified in the terms of the service agreement or to provide the information to a third party, the company shall be 14 years old. Except where :
+
+1. In case a location information and supply confirmation data are required to calculate the fees for location and location based services
+2. In case a person is provided in an unrecognizable form for statistics, academic research or market research ;
+
+Article 11 (Rights of the compulsory guardian for children under 8 years of age)
+
+① The company provides personal location information for the purpose of protecting children under 8 years of age or for the use of the personal position information for the purposes of the consent of the person under 8 years of age.
+
+Children under eight
+2
+3. A person with mental disability pursuant to Article 2 paragraph 2 of the Rehabilitation Act of the Disabled and who is severely disabled under Article 2 of the Employment Promotion and Rehabilitation Act
+
+② A person who intends to agree to use or provide personal location information for the protection of children under 8 years of age or for the protection of the body shall submit a written statement to the company to prove that he or she is a guardian.
+
+③ If a person who is under 8 years old agrees to use or provide personal location information, such as children under 8 years of age, the individual location information subject rights may be fully exercised.
+Article 12 (designated by the Director of Location and Information Management)
+
+① The company assigns a person who is in a position to take real responsibility to properly manage and protect location information and to handle complaints of the individual information body.
+
+② The Director of Location Information Management is the director of the department that provides location-based services, and specific details shall follow the Attachment of this Agreement.
+Article 13 (Compensation for damages)
+
+① In the event a member suffers damages by violating the provisions of Article 15 to 26 of the Act on the Protection and Use of Location Information, the member shall claim damages against the company. In this case, the company will be held liable if it fails to prove that it is deliberately innocent.
+
+② In the event a damage occurs to the company as a result of a member violating the provisions of this Agreement, the company can claim damages against the member. In this case, the member shall not be relieved of responsibility if he fails to prove that the member is deliberately innocent.
+Article 14 (Indemnification)
+
+① The company shall not be held liable for damages caused to the members in the event that the service can not be provided by the following cases :
+
+1. In the event of a natural disaster or equivalent of force majeure
+2. In case there is a deliberate interruption of service by a third party who has entered into a service partnership agreement with the company to provide the service ;
+3. In case service use is disabled due to reasons attributable to the member ;
+4. In case other reasons are not attributable to the company's intention or fault, except for the first and third reasons ;
+
+② The company shall not guarantee the information, data, reliability and accuracy of facts posted on the service and shall not be held liable for damages caused by the members.
+Article 15 (governed by regulation)
+
+① These terms and conditions shall be provided and enforced by the laws of the Republic of Korea.
+
+② Items not stipulated in these terms and conditions shall be subject to relevant laws and business practices.
+Article 16 (Co-ordination of disputes and others)
+
+① In the event that the company does not consult with the parties on disputes concerning location information or can not consult with them, the company can provide communication according to the provisions of Article 28 of the Act on the Protection and Utilization of Location Information.
+
+② If the company or the client can not negotiate or negotiate a dispute concerning location information, the Personal Information Protection Act can adjust the personal information dispute according to the provisions of Article 43 of the Privacy Act.
+Article 17 (Company's Contacts) The company's name and address are as follows :
+
+1. Award : &amp; 300 ; State &amp; 301
+
+2. The Great Table : Kim Jong-hoon
+
+3
+
+2. Main Phone : 0327778888
+
+
+Joo Chick
+
+Article 1 (Enforcement date) These terms and conditions shall be enforced starting on May 1, 2018.
+
+Article 2 Location Information Management Manager designated as follows as of 1 May 2018.
+
+1"</string>
+    <string name="이용약관">Article 1 (Purpose) These terms and conditions are provided by Jim Carreys app (hereinafter referred to as the " App ") operated by non-carrying companies and used in the transportation service (" Service ").The purpose of the Regulations is to define obligations and responsibilities.
+
+※ This Agreement shall apply to electronic commerce using PC communication or wireless service, as long as it does not conflict with the nature of the transaction."
+
+Article 2 (Definition)
+
+① An " app " refers to a product or service provided by a non-communication company (hereinafter referred to as a " commodity ") using an information communication facility such as a computer.
+
+② " User " means members and non-members who access the " app " and receive the services provided by the " app " under these terms and conditions.
+
+③ A " member " refers to a person who has registered a member in " app " and can continue to use the services provided by " app ".
+
+④ bihoewon Non-member . refers to a person who uses the services provided by the " app " without registering as a member.
+
+Article 3 (Specify, explain, and revise the terms and conditions)
+
+① The " app " provides the contents of these terms and conditions, names of each person and representatives, address of the place of business (including address of the place where the customer complaint can be handled), phone number? simulation number? e-mail, However, the contents of the agreement can be viewed through the connection screen.
+
+② " The app shall provide the user with an understanding of important contents such as withdrawal of subscription, delivery responsibility, or refund conditions, among the contents provided under the agreement before the user agrees to the terms and conditions.
+
+③ The " app " shall refer to the Framework Act on the Protection of Consumers, the Act on the Regulation of Terms and Conditions, the Framework Act on Electronic Documents and Electronic Trade, and the Electronic Finance Act,
+
+④ If an " app " modifies the terms and conditions, it shall be notified on the initial screen of the mall from 7 days before the application date to the day before the application date by specifying the application date and reason for revision. However, if the terms and conditions are changed against the users, the company shall notify them with a grace period of at least 30 days. In this case, the " app " clearly compares the contents before and after the revision and displays them for your knowledge.
+
+⑤ If an " app " modifies the terms and conditions, the terms and conditions of the amendment shall apply only to contracts signed after the application date and the terms and conditions of the previous contract. However, the user who has already signed the contract sends the meaning of the amendment agreement to the " app " within the notice period of the amendment agreement and receives the consent of the " app ".
+
+⑥ For matters not specified in this Agreement and interpretation of these Terms, the consumer shall follow the Act on Consumer Protection in Electronic Commerce, the Act on Regulation of Terms, and the Consumer in the Electronic Trade Commission.
+
+Article 4 (Delivery and modification of services)
+
+① The " app " performs the following tasks :
+
+1. Provide information about goods or services and conclude delivery
+2. Shipping of contracted goods or services
+3. Other tasks set by the " app "
+
+② In the event of an out-of-stock of goods or services or a change in technical specifications, the " app " may change the contents of goods or services to be provided under future contracts. In this case, the contents of the changed goods or services shall be specified and the date of delivery shall be immediately notified to the place where the contents of the goods or services are posted.
+
+③ " App "
+
+④ In the case of the preceding paragraph, the " app " will compensate the user for damages caused by this. However, this is not the case if the " app " proves that it is intentional or innocent.
+
+Article 5 (Interruption of services)
+
+① The " app " can temporarily suspend the provision of services in case of maintenance inspection of information communication facilities, such as computers, replacement and failure, or communication interruption.
+
+② The " app " shall compensate for damages caused by the temporary suspension of service provision by the user or third party for the reasons of paragraph 1. However, this is not the case if the " app " proves that it is intentional or innocent.
+
+③ In case the service can not be provided due to conversion of business items, abandonment of the business, and integration between companies, the " app " shall be notified to the users by the method specified in Article 8. However, if the " app " fails to notify the compensation criteria, the users mileage or reserves will be paid in kind or cash in accordance with the currency value used in the " app ".
+
+Article 6 (Membership sign - up)
+
+① After filling out the membership information according to the subscription form set out by the " app ", the user applies for membership by expressing his or her willingness to agree to these terms and conditions.
+
+② An " app " shall be registered as a member unless it falls under the following sections of the users who apply to join as a member as specified in paragraph 1 :
+
+1. In the case that an applicant has previously lost his or her membership under Article 7 paragraph 3 of this Agreement, it has been three years since the members qualification as a member has been lost by Article 7 paragraph 3. "
+2. In case of false, missing, or failed registration
+3. In case registration as a member is deemed to have a significant technical impact on the " app " ;
+
+③ The date of signing up for a membership contract shall be when the approval of the " app " has been reached.
+
+④ If there is a change in the registered information when a member joins a membership, the member shall notify the change within a considerable period of time by modifying the member information.
+
+Article 7 (withdrawal of membership and loss of qualifications, etc.)
+
+① The member may request withdrawal from the " app " at any time and the " app " immediately processes withdrawal from membership.
+
+② In case a member is subject to the following reasons, the " app " may restrict or suspend the membership :
+
+1. In case of registration of false information
+2. In case the member does not pay the member's debt on the due date for the payment of purchased goods or other " app " use using the " app " ;
+3. If you threaten the order of e-commerce, such as interfering with another person's use of the app or stealing that information.
+4. In case of acts prohibited by law or these terms or conditions using " app "
+
+③ After stopping " app " to limit membership, " mall " may lose membership if the same action is repeated more than twice or the reason is not corrected within 30 days.
+
+④ In case an " app " loses its membership, the member registration will be cancelled. In such a case, the member shall be informed and given the opportunity to establish a period of at least 30 days before the member registration is cancelled.
+
+Article 8 (Notice to members)
+
+① If an " app " notifies a member of a member, the member may sign up with the " app " in advance and use it to the e-mail address specified.
+
+② In case of notification to many unspecified members, " app " can be substituted for individual notification by posting on the " app " bulletin board for more than a week. However, individual notification shall be made on matters that have a significant impact on the member's transaction.
+
+Article 9 (Agreement to purchase application and personal information provision, etc.)
+
+① An " app " user makes a purchase request using the following or similar method in the " app ". The " mall " shall be easily informed of each of the following items in the user's request for purchase.
+1. Search and select goods, etc.
+2. Enter the recipient's name, address, phone number, e-mail address (or mobile phone number), etc.
+3. Confirmation of terms and conditions, service with limited rights to withdraw subscription, delivery charge? installation fee, etc.
+4. Signs of agreement to these terms and conditions and of confirmation or refusal of goodwill above 3.
+(e.g., click the mouse)
+5. Agreement on the purchase application for goods, etc. and the confirmation or confirmation of " app "
+6. Selecting a payment method
+
+② If the " app " needs to provide the purchaser's personal information to a third party, 1) the person who receives the personal information, 2) the purpose of personal information use of the person who receives the personal information, 3) (The same is true if the agreement is changed.)
+
+
+③ In case an " app " dedicates the work to a third party to handle the personal information of the purchaser, the person who receives the consent for the personal information handling shall be notified, and 2) the person who is entrusted with the personal information. (The same is true if the agreement is changed.) In the event that the contract regarding the service provision is necessary for implementation and the convenience of the purchaser is improved, the personal information handling policy is provided by the Act on Promotion of Information Communication Network Utilization and Information Protection.
+
+Article 10 (Establishment of a contract)
+
+① The " app " may refuse to accept a purchase application as provided in Article 9, provided that : However, if a contract is signed with a minor, it shall be notified that the contract can be cancelled by the minor himself or the legal representative unless the consent of the legal representative is obtained.
+
+1. In case of false, missing, or failed application
+2. In case a minor buys goods and services prohibited by the Youth Protection Act, such as tobacco and alcohol
+3. In case the acceptance of a purchase request is deemed to be significantly disruptive to the " app " technology ;
+
+② The contract is deemed to have been concluded at the time when the acceptance of the " app " reached the user in the form of a confirmation of receipt of Article 12 paragraph 1.
+
+③ The acceptance of the " Mall " shall include information on the user's confirmation and availability of the purchase request and cancellation of the purchase request.
+
+Payment methods for goods or services purchased in Section 11 (Payment Methods) " Apps " may be made available in any of the following methods : However, the " app " shall not collect fees under any pretext for payment of goods or other expenses.
+
+1. Transfer of various accounts such as phone banking, Internet banking, and mail banking
+2. Payment on various cards, such as prepaid, debit, and credit cards
+3. Deposit without online transfer
+4. Payment by electronic currency
+5. Payment on receipt
+6. Payment based on points paid by " app " such as mileage
+7. Payment made by a gift certificate that has been contracted or recognized by the " app "
+8. Payment by other electronic payment methods, etc.
+
+Article 12 (Receiving confirmation?Purchase application change and cancellation)
+
+① The " app " notifies the user of receipt confirmation when the user requests it.
+
+② A user who receives a confirmation of receipt can request for change or cancellation of a purchase request immediately upon receipt of a receipt confirmation notice and an " app " can be requested without delay before delivery. However, if you have already paid the payment, we will follow the provisions of Article 15 regarding withdrawal of subscription.
+
+Article 13 (Supply of goods, etc.)
+
+① Unless otherwise agreed upon when to supply the users and goods, the " app " shall prepare an order or other measures to order and package the goods within seven days of the user's application. However, if the " app " has already received all or part of the payment, such as goods, it shall be taken within three business days of receiving all or part of the payment. The " Mall " shall take proper measures to ensure that the user can check the supply procedures and progress of goods, etc.
+
+② " Mall " specifies the delivery method, shipping cost burden by means, and delivery period by means of goods purchased by the users. If the " Mall " exceeds the stipulated delivery period, the users shall be compensated for damages. This is not the case, however, when the " mole " proves that it is intentional and free from errors.
+
+Article 14 (Reimbursement) " Mall " notifies the user of the reason for payment of the purchase or payment of the product within the date of the payment, without delay, if the product submitted by the user is not available.
+
+Article 15 (withdrawal of subscription, etc.)
+
+① In the case that a user enters into a contract for purchase of " Mall " and goods within 7 days, the
+        user receives a written contract for the consumer protection in the event of a withdrawal from the date of supply (Article 13, 2).
+I can do it. However, the provisions of this Act shall be complied with in the event of otherwise enacted under the Consumer Protection Act in relation to the withdrawal of subscription.
+
+② In case of delivery of goods, etc., the user shall not return or exchange goods if they fall under 1 of the following items :
+
+1. In case a product is destroyed or damaged for reasons attributable to the user (However, the user can withdraw the subscription if the product is damaged for the</string>
+<string name="개인정보약관">"Privacy Policy
+
+
+1. The purpose of personal information processing below iha Jim Carrey . processes personal information for the purposes of :
+- Confirm the customers intent to sign up, identify and authenticate the customers identity according to service provision, and maintain membership.Payment of amounts, supply of goods or services, delivery, etc.
+
+
+2. The period of personal information processing and retention
+
+① Jim Carrey (Jim Carrey) processes personal information during the period of personal information retention and utilization agreed upon when collecting personal information from an information subject or within the period of legal use.
+
+② Specific personal information processing and retention period is as follows.
+☞ Refer to the examples below to indicate the retention period, relevant statutes, and grounds for personal information processing and personal information processing.
+(example) Customer registration and management : Until service contract or cancellation of membership, but when remaining in bond or debt relationship, until settlement of the relevant bond or liability relationship
+- Contract, subscription withdrawal, payment and supply records in electronic commerce : 5 years
+
+
+3. The rights and obligations of the information body and legal representatives and users of the event method may exercise the following rights as a personal information body :
+
+① Information subjects may exercise their rights to privacy in each of the following states at any time for non-calogicas . or below :
+1. Require access to personal information
+2. Correct errors
+3. Delete required
+4. Request to stop processing
+
+
+
+4. Complete the processing items for personal information
+
+① Jim Carrey is handling the following personal information items :
+
+
+
+1
+- Required items : mobile phone number, home address, password, gender, date of birth, name, credit card information, bank account information
+- Selection :
+
+
+
+
+
+
+5. The destruction of personal information (Jim Carrey) shall in principle destroy such personal information without delay if the purpose of personal information processing has been achieved. The procedure, expiration date, and method of destruction are as follows.
+
+- destruction procedure
+The information entered by the user shall be transferred to a separate DB upon achievement of the purpose (separate documents on paper) and stored for a period of time or immediately destroyed according to the internal policy and other related statutes. At this time, personal information transferred to DB is not used for any purpose other than by law.
+
+- Due date of destruction
+If the personal information of the user is processed within five days from the end of the period of the personal information, the purpose of personal information processing is achieved, the service is abolished, and the personal information of the project is not required.
+
+
+
+6. Installation and operation and refusal of personal information automatic collection device
+
+(Note) Non-carrogaise stores information about the use of the informatory and does not use ' cookies ' that are used frequently.
+
+7. Take care of your privacy
+
+
+① Vikerosis . or less, eun Jim Carrey is responsible for the task of personal information processing, and is responsible for the handling of personal information and the handling of complaints and relief of the information subjects concerned.
+
+
+▶ Personal information protection person
+Name : Kim Jong-hoon
+Position : Executive
+Position : Representative
+Contact us at 01090997406, drone-cop@daum.net,
+※ You will be connected to the privacy department.
+
+▶ Department for Personal Information Protection
+Name of department : Marketing
+Contact : Kim Joon Ho
+Contact Us : 010321919, jh4718@nate.com,
+② The informatory is responsible for all personal information protection inquiries, complaints handling, and personal information related to the use of services (or business) of non-caloric Rosis . and below. Vicarogis . or less ' Jim Carrey ' will answer and process inquiries from the informatory without delay.
+
+
+
+8. Changing the privacy policy
+
+① This Privacy Policy shall be applied from the date of enforcement. In the event of addition, deletion, and correction of changes according to the statutes and policies, it shall be notified through notice 7 days before implementation of the change.
+
+
+
+9. The measures to secure the safety of personal information (Jim Carrey) are to perform the following technical and administrative and physical actions to ensure safety under Article 29 of the Privacy Act :
+
+1. Conduct regular self-inspection
+To ensure stability in relation to personal information handling, we conduct our own audit regularly (once a quarter).
+
+2. Minimizing and educating personal information handling staff
+POSCO E&amp;C implements measures to manage personal information by designating and minimizing employees who handle personal information only.
+
+3. Establishing and implementing an internal management plan
+Internal management plans are established and implemented for the safe handling of personal information.
+
+4. Technical countermeasures against hacking
+(Note) Non-Carogis (Jim Carrey) installs security programs and performs periodic updates and checks to prevent personal information leakage and damage caused by hacking or computer viruses.
+
+5. Encryption of personal information
+The user's personal information is stored and managed with encrypted passwords, which are only known to the user, and important data is either encrypted or secured using the file lock function.
+
+6. Keep contact records and prevent any of the above modulation.
+The personal information processing system records are kept and managed for at least six months. The security function is used to prevent the personal information processing system from being altered, stolen, or lost.
+
+7. Access to personal information restricted
+We provide access to, change or cancel access to the data processing system to control unauthorized access to personal information and use of the intrusion prevention system."</string>
+    <string name="이용안내">1. “Jim Carrey is covered by Merits luggage liability insurance\n
+2. Please make your reservation at least 2-3 days before boarding the flight.\n
+3. Scheduled delivery need to be done at least a day ahead of boarding.\n
+4. It’s unable to refund and cancel on the day of travel .\n
+5. It is possible for you to get overnight delivery only when your flight is after 18:00\n
+6. Refundable in 10 working days\n
+7. We contact you before ‘Drop &amp;Pick up’ service.\n
+8. If you can not hand over directly ,please make sure storage location with us.\n
+9.The service can be automatically cancelled for absence or contract interruption.</string>
+    <string-array name="numbers">
+
+        <item>08:00~09:00</item>
+        <item>09:00~10:00</item>
+        <item>10:00~11:00</item>
+        <item>11:00~12:00</item>
+        <item>12:00~13:00</item>
+        <item>13:00~14:00</item>
+        <item>14:00~16:00</item>
+        <item>15:00~16:00</item>
+        <item>16:00~17:00</item>
+        <item>17:00~19:00</item>
+
+
+
+    </string-array>
+    <string-array name="numbers2">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>

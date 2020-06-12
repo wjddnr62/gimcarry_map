@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.laonstory.laon_dev01.gimcarry_map"
+    android:versionCode="63">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 전화와 메시지를 보내기 위한 퍼미션 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_logo_2"
+        android:label="@string/짐캐리"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        >
+
+        <!--android:networkSecurityConfig="@xml/network_security_config"-->
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <!-- 첫번째 스플레시 -->
+        <activity android:name=".Splash00_Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 두번째 이용안내 -->
+        <activity
+            android:name=".Splash01_Activity" />
+        <activity
+            android:name=".ManuActivity" />
+        <activity
+            android:name=".MapsActivity"
+            android:label="gimcarry_map" />
+        <activity
+            android:name=".DetailInfoActivity" />
+        <activity
+            android:name=".daummapapiActivity" />
+        <activity
+            android:name=".DetailInfoActivity2">
+            <intent-filter>
+                <data android:scheme="gimcarry_pay"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DetailInfoActivity_air" />
+        <activity
+            android:name=".DetailInfoActivity2_airport" />
+        <activity
+            android:name=".MapsActivity_airport" />
+        <activity
+            android:name=".ReserveinquiryActivity" />
+        <activity
+            android:name=".ReserveinquiryActivity_delivery" />
+        <activity
+            android:name=".daummapapiActivity_air" />
+        <activity
+            android:name=".TermActivity2" />
+        <activity
+            android:name=".TermActivity" />
+        <activity
+            android:name=".MoreinfoActivity" />
+        <activity android:name=".paymentActivity" />
+
+        <activity android:name=".Splash02_Activity"></activity>
+
+        <service android:name=".firebase.FirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:layout_centerInParent="true"
+    android:gravity="center"
+    android:id="@+id/app_text"
+    android:text="상호 (주)에스디에스텍\n대표자 진 성희\n사업자등록번호 186-86-01006\n주소지 인천광역시 서구 로봇랜드로 155-11 로봇지원센터 1403호\n전화번호 032-456-8253"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="확인"
+        android:gravity="center"
+        android:id="@+id/ok"
+        android:layout_below="@id/app_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"/>
+</RelativeLayout>
